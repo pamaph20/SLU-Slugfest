@@ -1,0 +1,38 @@
+{
+  "_id": "6175c9e3969d515951edefa5",
+  "created_at": "2021-10-24T21:02:27Z",
+  "text": "Sabbatical is super nice. Not a care in the world.",
+  "user_id_str": "6175c4bf394d1cc271633aea",
+  "reply_count": 0,
+  "reslime_count": 0,
+  "favorite_count": 2,
+  "entities": {
+    "hashtags": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": []
+  },
+  "id_str": "6175c9e3969d515951edefa5",
+  "user": {
+    "description": "My other computer is a Raspberry Pi",
+    "created": "2021-10-24T20:40:31.511Z",
+    "followers_count": 3,
+    "friends_count": 1,
+    "favorites_count": 2,
+    
+    "profile_image_url": "/assets/profile/ed.png",
+    "statuses_count": 3,
+    "favorited_slimes": [
+      "6175cb4a969d515951edefa9",
+      "6175ca53969d515951edefa6"
+    ],
+    "friends": [
+      "6113f86397c33ea86297ce48"
+    ],
+    "name": "Ed Harcourt",
+    "id_str": "6175c4bf394d1cc271633aea",
+    "screen_name": "@ed"
+  },
+  "reslimed": false,
+  "favorited": true
+}

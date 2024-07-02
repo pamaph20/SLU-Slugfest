@@ -1,0 +1,19 @@
+{
+  "description": "My other computer is a Raspberry Pi",
+  "name": "Ed Harcourt",
+  "created": "2021-10-24T20:40:31.511Z",
+  "followers_count": 3,
+  "friends_count": 1,
+  "favorites_count": 2,
+  "profile_image_url": "/assets/profile/ed.png",
+  "statuses_count": 3,
+  "favorited_slimes": [
+    "6175cb4a969d515951edefa9",
+    "6175ca53969d515951edefa6"
+  ],
+  "friends": [
+    "6113f86397c33ea86297ce48"
+  ],
+  "id_str": "6175c4bf394d1cc271633aea",
+  "screen_name": "@ed"
+}

@@ -1,0 +1,8 @@
+https://www.w3schools.com/js/js_switch.asp - for messages in verify_signed_in()
+https://betterprogramming.pub/how-to-use-async-await-with-map-in-js-5059043564e0 -- Promise.all()
+https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_split
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions
+https://chat.openai.com/share/b92c50a5-894b-41b1-b898-4c8a83add3c7
+
+GET USES query params 
+POST USES body params

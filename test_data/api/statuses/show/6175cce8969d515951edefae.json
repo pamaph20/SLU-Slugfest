@@ -1,0 +1,36 @@
+{
+  "_id": "6175cce8969d515951edefae",
+  "created_at": "2021-10-24T21:15:20Z",
+  "text": "On campus (September 3, 2021 at 09:37AM)",
+  "user_id_str": "6175c616394d1cc271633aec",
+  "reply_count": 0,
+  "reslime_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": []
+  },
+  "id_str": "6175cce8969d515951edefae",
+  "user": {
+    "description": null,
+    "created": "2021-10-24T20:46:14.600Z",
+    "followers_count": 2,
+    "friends_count": 3,
+    "favorites_count": 0,
+    
+    "profile_image_url": "/assets/profile/choong-soo.png",
+    "statuses_count": 7,
+    "friends": [
+      "6113f86397c33ea86297ce48",
+      "6175c4bf394d1cc271633aea",
+      "6175c5c6394d1cc271633aeb"
+    ],
+    "name": "Choong-Soo Lee",
+    "id_str": "6175c616394d1cc271633aec",
+    "screen_name": "@choongsool"
+  },
+  "reslimed": false,
+  "favorited": false
+}

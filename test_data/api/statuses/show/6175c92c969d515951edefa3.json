@@ -1,0 +1,42 @@
+{
+  "_id": "6175c92c969d515951edefa3",
+  "created_at": "2021-10-24T20:59:24Z",
+  "text": "@KevinAAngstadt why am I on here?",
+  "user_id_str": "6175c4bf394d1cc271633aea",
+  "reply_count": 1,
+  "reslime_count": 1,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "user_mentions": [
+      "@KevinAAngstadt"
+    ],
+    "urls": [],
+    "media": []
+  },
+  "in_reply_to_status_id_str": "611fcaf640148d94e2a469c7",
+  "in_reply_to_user_id_str": "6113f86397c33ea86297ce48",
+  "id_str": "6175c92c969d515951edefa3",
+  "user": {
+    "description": "My other computer is a Raspberry Pi",
+    "created": "2021-10-24T20:40:31.511Z",
+    "followers_count": 3,
+    "friends_count": 1,
+    "favorites_count": 2,
+    
+    "profile_image_url": "/assets/profile/ed.png",
+    "statuses_count": 3,
+    "favorited_slimes": [
+      "6175cb4a969d515951edefa9",
+      "6175ca53969d515951edefa6"
+    ],
+    "friends": [
+      "6113f86397c33ea86297ce48"
+    ],
+    "name": "Ed Harcourt",
+    "id_str": "6175c4bf394d1cc271633aea",
+    "screen_name": "@ed"
+  },
+  "reslimed": true,
+  "favorited": false
+}

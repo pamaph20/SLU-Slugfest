@@ -1,0 +1,41 @@
+{
+  "_id": "6175ca53969d515951edefa6",
+  "created_at": "2021-10-24T21:04:19Z",
+  "text": "It's kinda cool that we have our own in-house Twitter clone #CSThoughts",
+  "user_id_str": "6175c5c6394d1cc271633aeb",
+  "reply_count": 0,
+  "reslime_count": 0,
+  "favorite_count": 1,
+  "entities": {
+    "hashtags": [
+      "#csthoughts"
+    ],
+    "user_mentions": [],
+    "urls": [],
+    "media": []
+  },
+  "id_str": "6175ca53969d515951edefa6",
+  "user": {
+    "description": "If your algorithms aren't in Jupyter Notebooks, I'm not talking to you.",
+    "created": "2021-10-24T20:44:54.755Z",
+    "followers_count": 2,
+    "friends_count": 3,
+    "favorites_count": 1,
+    
+    "profile_image_url": "/assets/profile/lisa.jpeg",
+    "statuses_count": 1,
+    "favorited_slimes": [
+      "6175c9e3969d515951edefa5"
+    ],
+    "friends": [
+      "6175c616394d1cc271633aec",
+      "6175c4bf394d1cc271633aea",
+      "6113f86397c33ea86297ce48"
+    ],
+    "name": "Lisa Torrey",
+    "id_str": "6175c5c6394d1cc271633aeb",
+    "screen_name": "@ltorrey"
+  },
+  "reslimed": false,
+  "favorited": false
+}
